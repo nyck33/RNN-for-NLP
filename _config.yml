@@ -1,1 +1,3 @@
 theme: jekyll-theme-leap-day
+title: Welcome to the Simpsons script generator!
+description:  You can create your own original Simpsons scripts based on the past scripts that you train the network on.
